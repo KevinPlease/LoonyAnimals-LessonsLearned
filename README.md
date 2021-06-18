@@ -1,7 +1,7 @@
 # Lessons Learned from _"LoonyAnimals"_
 A collection of lessons learned from developing my first game (mobile) **"Loony Animals"**
 
-TODO: LINK TO PLAY STORE HERE
+https://play.google.com/store/apps/details?id=com.illyriangamestudios.LoonyAnimals
 
 ## Pre-Production
 
